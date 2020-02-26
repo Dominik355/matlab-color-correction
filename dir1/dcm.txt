@@ -1,0 +1,1 @@
+len na pridanie directory do .gitignore
