@@ -1,0 +1,3 @@
+len na vyskusanie ignore
+
+toto pridam do testu
